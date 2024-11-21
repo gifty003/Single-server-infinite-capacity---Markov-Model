@@ -26,8 +26,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program:
 ```
-Name: AMIRTHAVARSHINI V
-Register Number: 212223040014
+Name: GIFSON RAJARATHINAM N
+Register Number: 212222233002
 ```
 
 ```
